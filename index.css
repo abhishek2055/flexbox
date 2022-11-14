@@ -1,0 +1,22 @@
+.main-div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+}
+.first-div{
+    height: 20rem;
+    width: 20rem;
+    border: 2px solid black;  
+    justify-content: center;
+    display: flex;
+    align-items: center; 
+    
+}
+.second-div{
+    height: 10rem;
+    width: 10rem;
+    border: 2px solid black;
+    border-radius: 50%;
+}
